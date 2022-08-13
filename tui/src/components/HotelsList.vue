@@ -27,11 +27,11 @@ export default class HomeList extends Vue {}
 .hotels-list {
   @apply space-y-2;
 
-  .hotels-list__title {
+  &__title {
     @apply text-2xl font-bold text-gray-900;
   }
 
-  .hotels-list__subtitle {
+  &__subtitle {
     @apply text-sm font-medium text-gray-500
   }
 }
