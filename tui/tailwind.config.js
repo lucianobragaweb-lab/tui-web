@@ -1,12 +1,15 @@
+const TailwindForms = require('@tailwindcss/forms')
+
 module.exports = {
+  mode: 'jit',
   important: true,
 
-  purge: false,
+  purge: [
+    './public/**/*.html',
+    './src/**/*.{js,jsx,ts,tsx,vue}',
+  ],
 
-  plugins: [],
-
-  theme: {
-    extend: {
-    },
-  }
+  plugins: [
+    TailwindForms
+  ]
 }
