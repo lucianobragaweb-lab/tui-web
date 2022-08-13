@@ -1,11 +1,23 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view />
+  <div class="min-h-full">
+    <HeaderComponent />
+
+    <main>
+      <router-view />
+    </main>
+  </div>
 </template>
 
-<style lang="scss">
-@import '@/assets/scss/app.scss';
-</style>
+<script lang="ts">
+import { Options, Vue } from 'vue-class-component'
+import HeaderComponent from '@/components/HeaderComponent.vue' // @ is an alias to /src
+
+@Options({
+  components: {
+    HeaderComponent
+  }
+})
+export default class App extends Vue { }
+</script>
+
+<style lang="scss" src="@/assets/scss/app.scss"/>
