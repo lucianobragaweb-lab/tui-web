@@ -20,5 +20,5 @@ import CardItem from '@/components/CardItem.vue' // @ is an alias to /src
     CardItem
   }
 })
-export default class HomeView extends Vue {}
+export default class HomeList extends Vue {}
 </script>

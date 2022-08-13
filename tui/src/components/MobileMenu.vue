@@ -33,7 +33,7 @@
         <div class="pt-3 pb-2">
           <div class="flex items-center justify-between px-4">
             <div>
-              <Logo />
+              <LogoComponent />
             </div>
             <div class="-mr-2">
               <button type="button" class="
@@ -63,6 +63,18 @@
     </div>
   </div>
 </template>
+
+<script lang="ts">
+import { Options, Vue } from 'vue-class-component'
+import LogoComponent from './LogoComponent.vue'
+
+@Options({
+  components: {
+    LogoComponent
+  }
+})
+export default class MobileMenu extends Vue {}
+</script>
 
 <style lang="scss" scoped>
 .btn-hamburg {
