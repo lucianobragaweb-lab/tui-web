@@ -1,8 +1,8 @@
 <template>
-  <div class="space-y-2">
+  <div class="hotels-list">
     <div>
-      <h1 class="text-2xl font-bold text-gray-900">Plaza Vilamoura</h1>
-      <p class="text-sm font-medium text-gray-500">2.531 results</p>
+      <h1 class="hotels-list__title">Plaza Vilamoura</h1>
+      <p class="hotels-list__subtitle">2.531 results</p>
     </div>
 
     <CardItem v-for="i in 3" :key="i" />
@@ -22,3 +22,17 @@ import CardItem from '@/components/CardItem.vue' // @ is an alias to /src
 })
 export default class HomeList extends Vue {}
 </script>
+
+<style lang="scss" scoped>
+.hotels-list {
+  @apply space-y-2;
+
+  .hotels-list__title {
+    @apply text-2xl font-bold text-gray-900;
+  }
+
+  .hotels-list__subtitle {
+    @apply text-sm font-medium text-gray-500
+  }
+}
+</style>
