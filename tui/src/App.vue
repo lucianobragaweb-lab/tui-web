@@ -9,15 +9,14 @@
 </template>
 
 <script lang="ts">
-import { Options, Vue } from 'vue-class-component'
-import HeaderComponent from '@/components/HeaderComponent.vue' // @ is an alias to /src
+import { defineComponent } from 'vue'
+import HeaderComponent from './components/HeaderComponent.vue'
 
-@Options({
+export default defineComponent({
+  name: 'App',
   components: {
     HeaderComponent
   }
 })
-export default class App extends Vue { }
-</script>
 
-<style lang="scss" src="@/assets/scss/app.scss"/>
+</script>

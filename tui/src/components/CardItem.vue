@@ -2,19 +2,22 @@
   <div class="card">
     <img class="card__image" src="@/assets/img/hotel.png" alt="">
     <div class="card__content">
-      <h5 class="card__title">Crowne Plaza Vilamoura Algarve</h5>
+      <h5 class="card__title">{{ item?.hotelName }}</h5>
       <p class="card__subtitle">Description </p>
     </div>
   </div>
 </template>
 
 <script lang="ts">
-import { Options, Vue } from 'vue-class-component'
+import { defineComponent, toRefs } from 'vue'
+import Product from '../types/Product'
 
-@Options({
-  components: {}
+export default defineComponent({
+  name: 'CardItem',
+  props: {
+    item: Object as () => Product
+  }
 })
-export default class CardItem extends Vue { }
 </script>
 
 <style lang="scss" scoped>

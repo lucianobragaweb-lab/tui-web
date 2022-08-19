@@ -5,22 +5,26 @@
       <p class="hotels-list__subtitle">2.531 results</p>
     </div>
 
-    <CardItem v-for="i in 3" :key="i" />
+    <CardItem v-for="item in hotelsList" :key="item.amount" :item="item" />
 
     <button type="button" class="btn">Load more offers</button>
   </div>
 </template>
 
 <script lang="ts">
-import { Options, Vue } from 'vue-class-component'
-import CardItem from '@/components/CardItem.vue' // @ is an alias to /src
+import { defineComponent, toRefs } from 'vue'
+import CardItem from '../components/CardItem.vue' // @ is an alias to /src
+import Product from '../types/Product'
 
-@Options({
+export default defineComponent({
+  name: 'HotelsList',
   components: {
     CardItem
+  },
+  props: {
+    hotelsList: Object as () => Product[]
   }
 })
-export default class HomeList extends Vue {}
 </script>
 
 <style lang="scss" scoped>
