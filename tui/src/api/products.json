@@ -1,0 +1,197 @@
+[
+    {
+        "allInPrice": {
+            "currency": "EUR",
+            "amount": 610.34
+        },
+        "totalPrice": {
+            "currency": "EUR",
+            "amount": 610.34
+        },
+        "displayPrice": {
+            "currency": "EUR",
+            "amount": 610.34,
+            "priceType": "totalPrice"
+        },
+        "localSupplier": "HOBHTUES2",
+        "marketIdentifier": "tui-es",
+        "board": "GT06-BB",
+        "from": "2022-10-12",
+        "city": {
+            "code": "145740",
+            "label": "Forte dei Marmi"
+        },
+        "ref": "goal:112932",
+        "duration": "1",
+        "region": {
+            "code": "10228509",
+            "label": "Versilia"
+        },
+        "country": {
+            "code": "IT",
+            "label": "Italia"
+        },
+        "adults": 1,
+        "room": "ST04-DO",
+        "geo": {
+            "latitude": "43.95157",
+            "longitude": "10.175925"
+        },
+        "children": "",
+        "averageRating": "90.0",
+        "ratingCount": "129.0",
+        "starRating": "5.0",
+        "amenities": "Family GT03-24RE GT03-AICO GT03-BARR GT03-BARR#ST03-50PO GT03-BASE GT03-BIHI GT03-BILL GT03-BUFF#ST03-BREA GT03-BUFF#ST08-BREA GT03-BUSE GT03-BUTR GT03-CAFE GT03-CAPA GT03-CAPA#AT03-SEMO GT03-CHPA GT03-CORO GT03-CRCA#ST03-AMEX GT03-CRCA#ST03-MACA GT03-CRCA#ST03-VISA GT03-DANE GT03-DIFR GT03-DIVI GT03-FITN GT03-GARA GT03-GARD GT03-GOLF GT03-GYMN GT03-GYMN#ST03-AQGY GT03-HAIR GT03-HICH GT03-HORI GT03-HOSA GT03-INTE#ST03-WLAN GT03-KICL GT03-LARE GT03-LASE GT03-LIFT GT03-LOUN GT03-LURO GT03-LUSE GT03-MACA GT03-MESP GT03-MOBI GT03-MOEX GT03-NIGH GT03-NUFL#ST03-N4 GT03-PEBO GT03-POOL#ST03-INDO GT03-POOL#ST03-OUTD GT03-RECE GT03-REST GT03-REST#AT03-HOTE GT03-ROSE GT03-SAUN GT03-SAUN#ST03-STBA GT03-SAUN#ST03-TUBA GT03-SPAA GT03-SPAA#ST03-STBA GT03-SPFO#ST03-DICU GT03-SPFO#ST03-VECU GT03-SURF GT03-TATE#ST03-INDO#AT03-HOTE GT03-TELP GT03-TENN GT03-TERR GT03-TVRO GT03-VIGA GT03-WATE GT03-WELL GT03-WHAC GT03-WOCO GT03-YECO HB-NOR Nightlife Parking Sport Wellness FCP-P16D FCP-P32D FCP-P8D FCP-RATE GT05-KETT GT05-TUDR",
+        "guests": 1,
+        "trustyouId": "3567ee32-2d3d-48d3-aecd-4330c3a75ffd",
+        "hotelName": "Principe Forte Dei Marmi",
+        "perPerson": {
+            "allInPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "totalPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "displayPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "netPrice": {
+                "currency": "EUR",
+                "amount": 0
+            }
+        }
+    },
+    {
+        "allInPrice": {
+            "currency": "EUR",
+            "amount": 610.34
+        },
+        "totalPrice": {
+            "currency": "EUR",
+            "amount": 610.34
+        },
+        "displayPrice": {
+            "currency": "EUR",
+            "amount": 610.34,
+            "priceType": "totalPrice"
+        },
+        "localSupplier": "HOBHTUES2",
+        "marketIdentifier": "tui-es",
+        "board": "GT06-BB",
+        "from": "2022-10-12",
+        "city": {
+            "code": "145740",
+            "label": "Forte dei Marmi"
+        },
+        "ref": "goal:112932",
+        "duration": "1",
+        "region": {
+            "code": "10228509",
+            "label": "Versilia"
+        },
+        "country": {
+            "code": "IT",
+            "label": "Italia"
+        },
+        "adults": 1,
+        "room": "ST04-DO",
+        "geo": {
+            "latitude": "43.95157",
+            "longitude": "10.175925"
+        },
+        "children": "",
+        "averageRating": "90.0",
+        "ratingCount": "129.0",
+        "starRating": "5.0",
+        "amenities": "Family GT03-24RE GT03-AICO GT03-BARR GT03-BARR#ST03-50PO GT03-BASE GT03-BIHI GT03-BILL GT03-BUFF#ST03-BREA GT03-BUFF#ST08-BREA GT03-BUSE GT03-BUTR GT03-CAFE GT03-CAPA GT03-CAPA#AT03-SEMO GT03-CHPA GT03-CORO GT03-CRCA#ST03-AMEX GT03-CRCA#ST03-MACA GT03-CRCA#ST03-VISA GT03-DANE GT03-DIFR GT03-DIVI GT03-FITN GT03-GARA GT03-GARD GT03-GOLF GT03-GYMN GT03-GYMN#ST03-AQGY GT03-HAIR GT03-HICH GT03-HORI GT03-HOSA GT03-INTE#ST03-WLAN GT03-KICL GT03-LARE GT03-LASE GT03-LIFT GT03-LOUN GT03-LURO GT03-LUSE GT03-MACA GT03-MESP GT03-MOBI GT03-MOEX GT03-NIGH GT03-NUFL#ST03-N4 GT03-PEBO GT03-POOL#ST03-INDO GT03-POOL#ST03-OUTD GT03-RECE GT03-REST GT03-REST#AT03-HOTE GT03-ROSE GT03-SAUN GT03-SAUN#ST03-STBA GT03-SAUN#ST03-TUBA GT03-SPAA GT03-SPAA#ST03-STBA GT03-SPFO#ST03-DICU GT03-SPFO#ST03-VECU GT03-SURF GT03-TATE#ST03-INDO#AT03-HOTE GT03-TELP GT03-TENN GT03-TERR GT03-TVRO GT03-VIGA GT03-WATE GT03-WELL GT03-WHAC GT03-WOCO GT03-YECO HB-NOR Nightlife Parking Sport Wellness FCP-P16D FCP-P32D FCP-P8D FCP-RATE GT05-KETT GT05-TUDR",
+        "guests": 1,
+        "trustyouId": "3567ee32-2d3d-48d3-aecd-4330c3a75ffd",
+        "hotelName": "Principe Forte Dei Marmi",
+        "perPerson": {
+            "allInPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "totalPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "displayPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "netPrice": {
+                "currency": "EUR",
+                "amount": 0
+            }
+        }
+    },
+    {
+        "allInPrice": {
+            "currency": "EUR",
+            "amount": 610.34
+        },
+        "totalPrice": {
+            "currency": "EUR",
+            "amount": 610.34
+        },
+        "displayPrice": {
+            "currency": "EUR",
+            "amount": 610.34,
+            "priceType": "totalPrice"
+        },
+        "localSupplier": "HOBHTUES2",
+        "marketIdentifier": "tui-es",
+        "board": "GT06-BB",
+        "from": "2022-10-12",
+        "city": {
+            "code": "145740",
+            "label": "Forte dei Marmi"
+        },
+        "ref": "goal:112932",
+        "duration": "1",
+        "region": {
+            "code": "10228509",
+            "label": "Versilia"
+        },
+        "country": {
+            "code": "IT",
+            "label": "Italia"
+        },
+        "adults": 1,
+        "room": "ST04-DO",
+        "geo": {
+            "latitude": "43.95157",
+            "longitude": "10.175925"
+        },
+        "children": "",
+        "averageRating": "90.0",
+        "ratingCount": "129.0",
+        "starRating": "5.0",
+        "amenities": "Family GT03-24RE GT03-AICO GT03-BARR GT03-BARR#ST03-50PO GT03-BASE GT03-BIHI GT03-BILL GT03-BUFF#ST03-BREA GT03-BUFF#ST08-BREA GT03-BUSE GT03-BUTR GT03-CAFE GT03-CAPA GT03-CAPA#AT03-SEMO GT03-CHPA GT03-CORO GT03-CRCA#ST03-AMEX GT03-CRCA#ST03-MACA GT03-CRCA#ST03-VISA GT03-DANE GT03-DIFR GT03-DIVI GT03-FITN GT03-GARA GT03-GARD GT03-GOLF GT03-GYMN GT03-GYMN#ST03-AQGY GT03-HAIR GT03-HICH GT03-HORI GT03-HOSA GT03-INTE#ST03-WLAN GT03-KICL GT03-LARE GT03-LASE GT03-LIFT GT03-LOUN GT03-LURO GT03-LUSE GT03-MACA GT03-MESP GT03-MOBI GT03-MOEX GT03-NIGH GT03-NUFL#ST03-N4 GT03-PEBO GT03-POOL#ST03-INDO GT03-POOL#ST03-OUTD GT03-RECE GT03-REST GT03-REST#AT03-HOTE GT03-ROSE GT03-SAUN GT03-SAUN#ST03-STBA GT03-SAUN#ST03-TUBA GT03-SPAA GT03-SPAA#ST03-STBA GT03-SPFO#ST03-DICU GT03-SPFO#ST03-VECU GT03-SURF GT03-TATE#ST03-INDO#AT03-HOTE GT03-TELP GT03-TENN GT03-TERR GT03-TVRO GT03-VIGA GT03-WATE GT03-WELL GT03-WHAC GT03-WOCO GT03-YECO HB-NOR Nightlife Parking Sport Wellness FCP-P16D FCP-P32D FCP-P8D FCP-RATE GT05-KETT GT05-TUDR",
+        "guests": 1,
+        "trustyouId": "3567ee32-2d3d-48d3-aecd-4330c3a75ffd",
+        "hotelName": "Principe Forte Dei Marmi",
+        "perPerson": {
+            "allInPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "totalPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "displayPrice": {
+                "currency": "EUR",
+                "amount": 610.34
+            },
+            "netPrice": {
+                "currency": "EUR",
+                "amount": 0
+            }
+        }
+    }
+]
